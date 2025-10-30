@@ -1,0 +1,67 @@
+# core ML/AI packages
+accelerate
+bitsandbytes
+diffusers
+transformers
+peft
+safetensors
+tokenizers
+einops
+huggingface-hub
+sentencepiece
+triton
+
+# image processing
+pillow==11.2.1
+opencv-python-headless==4.11.0.86
+numpy==1.26.4
+mediapipe
+
+# web framework and api
+fastapi
+uvicorn
+python-multipart
+pydantic-settings
+prometheus-fastapi-instrumentator
+loguru
+omegaconf
+boto3==1.36.20
+
+# Low-level dependencies
+certifi==2025.4.26
+charset-normalizer==3.4.2
+idna==3.10
+urllib3==2.4.0
+requests==2.32.3
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+typing_extensions==4.13.2
+protobuf==3.20.3
+attrs==25.3.0
+importlib_metadata==8.7.0
+zipp==3.21.0
+six==1.17.0
+python-dotenv
+
+# image api
+fal-client
+
+# langchain
+openai
+sqlalchemy
+psycopg2-binary
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core
+langchain-community 
+langchain-text-splitters
+langchain-experimental
+lxml
+chromadb
+tiktoken
+docarray
+wikipedia
+numexpr
+langchain-teddynote
+google-genai
+beautifulsoup4
